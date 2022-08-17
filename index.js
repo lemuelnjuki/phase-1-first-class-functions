@@ -1,7 +1,7 @@
 function receivesAFunction(lemuel){
     lemuel();
 }
-function returnsANamedFunction(coding){
+function returnsANamedFunction(){
     return function coding (){
 
     }
